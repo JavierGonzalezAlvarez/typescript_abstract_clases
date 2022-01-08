@@ -1,0 +1,9 @@
+start,end,weight
+a.com,b.com,4
+a.com,c.com,2
+b.com,g.com,3
+c.com,d.com,2
+c.com,f.com,4
+d.com,g.com,3
+d.com,f.com,1
+g.com,f.com,1
